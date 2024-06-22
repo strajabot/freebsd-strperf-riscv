@@ -1,0 +1,300 @@
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1332	910259.01 ns/op	137.32355 MB/s
+BenchmarkMemcmpMid	1924	615211.54 ns/op	203.18214 MB/s
+BenchmarkMemcmpLong	2300	527678.26 ns/op	236.88677 MB/s
+BenchmarkBcmpShort	1167	1022521 ns/op	122.24688 MB/s
+BenchmarkBcmpMid	1501	808576.28 ns/op	154.59271 MB/s
+BenchmarkBcmpLong	1662	729454.27 ns/op	171.36098 MB/s
+BenchmarkTsBcmpShort	1318	921204.86 ns/op	135.69186 MB/s
+BenchmarkTsBcmpMid	1713	698510.8 ns/op	178.95214 MB/s
+BenchmarkTsBcmpLong	1777	628148 ns/op	198.99769 MB/s
+BenchmarkTsMemcmpShort	834	1458577.9 ns/op	85.699911 MB/s
+BenchmarkTsMemcmpMid	958	1263711.9 ns/op	98.91495 MB/s
+BenchmarkTsMemcmpLong	1012	1195815.2 ns/op	104.5312 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1246	959473.52 ns/op	130.27978 MB/s
+BenchmarkMemcmpMid	1714	700163.36 ns/op	178.52976 MB/s
+BenchmarkMemcmpLong	1832	615695.41 ns/op	203.02246 MB/s
+BenchmarkBcmpShort	1388	876069.88 ns/op	142.68268 MB/s
+BenchmarkBcmpMid	1926	627631.36 ns/op	199.16149 MB/s
+BenchmarkBcmpLong	2110	556793.84 ns/op	224.49961 MB/s
+BenchmarkTsBcmpShort	1173	1016213.1 ns/op	123.00569 MB/s
+BenchmarkTsBcmpMid	1504	795291.22 ns/op	157.17513 MB/s
+BenchmarkTsBcmpLong	1520	725305.26 ns/op	172.34123 MB/s
+BenchmarkTsMemcmpShort	832	1475373.8 ns/op	84.724292 MB/s
+BenchmarkTsMemcmpMid	951	1277622.5 ns/op	97.837976 MB/s
+BenchmarkTsMemcmpLong	1014	1197366.9 ns/op	104.39574 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1278	948101.72 ns/op	131.84239 MB/s
+BenchmarkMemcmpMid	1708	711537.47 ns/op	175.67592 MB/s
+BenchmarkMemcmpLong	1960	620114.29 ns/op	201.57575 MB/s
+BenchmarkBcmpShort	1393	862912.42 ns/op	144.85827 MB/s
+BenchmarkBcmpMid	1941	618637.3 ns/op	202.057 MB/s
+BenchmarkBcmpLong	2200	552682.73 ns/op	226.16954 MB/s
+BenchmarkTsBcmpShort	1222	974896.07 ns/op	128.2188 MB/s
+BenchmarkTsBcmpMid	1503	798630.07 ns/op	156.51802 MB/s
+BenchmarkTsBcmpLong	1654	736529.02 ns/op	169.71497 MB/s
+BenchmarkTsMemcmpShort	820	1471602.4 ns/op	84.941419 MB/s
+BenchmarkTsMemcmpMid	960	1266208.3 ns/op	98.719932 MB/s
+BenchmarkTsMemcmpLong	1012	1196743.1 ns/op	104.45015 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1275	956414.12 ns/op	130.69652 MB/s
+BenchmarkMemcmpMid	1710	701025.73 ns/op	178.31015 MB/s
+BenchmarkMemcmpLong	1743	613410.21 ns/op	203.7788 MB/s
+BenchmarkBcmpShort	1392	846783.76 ns/op	147.61738 MB/s
+BenchmarkBcmpMid	1935	627182.95 ns/op	199.30389 MB/s
+BenchmarkBcmpLong	2198	559974.98 ns/op	223.22426 MB/s
+BenchmarkTsBcmpShort	1218	987271.76 ns/op	126.61154 MB/s
+BenchmarkTsBcmpMid	1507	785561.38 ns/op	159.12188 MB/s
+BenchmarkTsBcmpLong	1654	724898.43 ns/op	172.43795 MB/s
+BenchmarkTsMemcmpShort	825	1446312.7 ns/op	86.426675 MB/s
+BenchmarkTsMemcmpMid	958	1258068.9 ns/op	99.358629 MB/s
+BenchmarkTsMemcmpLong	1014	1210362.9 ns/op	103.27481 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1246	982943.82 ns/op	127.16902 MB/s
+BenchmarkMemcmpMid	1741	704196.44 ns/op	177.50729 MB/s
+BenchmarkMemcmpLong	1963	618708.61 ns/op	202.03372 MB/s
+BenchmarkBcmpShort	1389	845418.29 ns/op	147.8558 MB/s
+BenchmarkBcmpMid	1947	619437.08 ns/op	201.79612 MB/s
+BenchmarkBcmpLong	2199	550245.57 ns/op	227.1713 MB/s
+BenchmarkTsBcmpShort	1231	967266.45 ns/op	129.23016 MB/s
+BenchmarkTsBcmpMid	1504	789575.13 ns/op	158.31299 MB/s
+BenchmarkTsBcmpLong	1653	734779.79 ns/op	170.11899 MB/s
+BenchmarkTsMemcmpShort	843	1507438.9 ns/op	82.9221 MB/s
+BenchmarkTsMemcmpMid	938	1260929.6 ns/op	99.133208 MB/s
+BenchmarkTsMemcmpLong	1014	1200382.6 ns/op	104.13346 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1237	946779.3 ns/op	132.02654 MB/s
+BenchmarkMemcmpMid	1525	685740.33 ns/op	182.28474 MB/s
+BenchmarkMemcmpLong	1954	619433.98 ns/op	201.79713 MB/s
+BenchmarkBcmpShort	1388	865827.81 ns/op	144.37051 MB/s
+BenchmarkBcmpMid	1983	609835.6 ns/op	204.97327 MB/s
+BenchmarkBcmpLong	2191	552477.41 ns/op	226.2536 MB/s
+BenchmarkTsBcmpShort	1239	1013751.4 ns/op	123.30439 MB/s
+BenchmarkTsBcmpMid	1544	781321.89 ns/op	159.98528 MB/s
+BenchmarkTsBcmpLong	1563	728595.65 ns/op	171.56292 MB/s
+BenchmarkTsMemcmpShort	822	1501225.1 ns/op	83.26533 MB/s
+BenchmarkTsMemcmpMid	973	1253057.6 ns/op	99.755993 MB/s
+BenchmarkTsMemcmpLong	1012	1203583 ns/op	103.85657 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1257	937284.01 ns/op	133.36406 MB/s
+BenchmarkMemcmpMid	1719	703328.68 ns/op	177.72629 MB/s
+BenchmarkMemcmpLong	1962	618329.26 ns/op	202.15767 MB/s
+BenchmarkBcmpShort	1364	862140.76 ns/op	144.98792 MB/s
+BenchmarkBcmpMid	1831	606831.24 ns/op	205.98808 MB/s
+BenchmarkBcmpLong	2199	556699.86 ns/op	224.53751 MB/s
+BenchmarkTsBcmpShort	1204	992596.35 ns/op	125.93236 MB/s
+BenchmarkTsBcmpMid	1514	799915.46 ns/op	156.26651 MB/s
+BenchmarkTsBcmpLong	1604	733705.74 ns/op	170.36803 MB/s
+BenchmarkTsMemcmpShort	816	1463107.8 ns/op	85.434577 MB/s
+BenchmarkTsMemcmpMid	949	1263468.9 ns/op	98.933973 MB/s
+BenchmarkTsMemcmpLong	986	1194226.2 ns/op	104.67029 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1249	963360.29 ns/op	129.75415 MB/s
+BenchmarkMemcmpMid	1752	691666.1 ns/op	180.72304 MB/s
+BenchmarkMemcmpLong	1963	618413.14 ns/op	202.13024 MB/s
+BenchmarkBcmpShort	1390	856240.29 ns/op	145.98706 MB/s
+BenchmarkBcmpMid	1974	619370.82 ns/op	201.81771 MB/s
+BenchmarkBcmpLong	2199	545815.83 ns/op	229.01498 MB/s
+BenchmarkTsBcmpShort	1135	984581.5 ns/op	126.95749 MB/s
+BenchmarkTsBcmpMid	1531	802739.39 ns/op	155.71679 MB/s
+BenchmarkTsBcmpLong	1654	734548.37 ns/op	170.17259 MB/s
+BenchmarkTsMemcmpShort	823	1477218.7 ns/op	84.618479 MB/s
+BenchmarkTsMemcmpMid	955	1270172.8 ns/op	98.411809 MB/s
+BenchmarkTsMemcmpLong	1011	1200164.2 ns/op	104.15242 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1266	958126.38 ns/op	130.46296 MB/s
+BenchmarkMemcmpMid	1740	694902.87 ns/op	179.88125 MB/s
+BenchmarkMemcmpLong	1962	617941.9 ns/op	202.28439 MB/s
+BenchmarkBcmpShort	1340	857737.31 ns/op	145.73226 MB/s
+BenchmarkBcmpMid	1928	616061.72 ns/op	202.90175 MB/s
+BenchmarkBcmpLong	2200	552111.36 ns/op	226.4036 MB/s
+BenchmarkTsBcmpShort	1237	1015325.8 ns/op	123.11319 MB/s
+BenchmarkTsBcmpMid	1543	792869.73 ns/op	157.65515 MB/s
+BenchmarkTsBcmpLong	1652	733196.13 ns/op	170.48644 MB/s
+BenchmarkTsMemcmpShort	787	1472627.7 ns/op	84.882282 MB/s
+BenchmarkTsMemcmpMid	925	1262483.2 ns/op	99.011215 MB/s
+BenchmarkTsMemcmpLong	1012	1202693.7 ns/op	103.93336 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1251	981406.87 ns/op	127.36817 MB/s
+BenchmarkMemcmpMid	1718	706530.85 ns/op	176.9208 MB/s
+BenchmarkMemcmpLong	1929	611448.42 ns/op	204.43262 MB/s
+BenchmarkBcmpShort	1160	915687.07 ns/op	136.50952 MB/s
+BenchmarkBcmpMid	1903	638835.52 ns/op	195.66852 MB/s
+BenchmarkBcmpLong	2198	552020.93 ns/op	226.44069 MB/s
+BenchmarkTsBcmpShort	1165	989037.77 ns/op	126.38547 MB/s
+BenchmarkTsBcmpMid	1515	811942.57 ns/op	153.95177 MB/s
+BenchmarkTsBcmpLong	1654	730514.51 ns/op	171.11228 MB/s
+BenchmarkTsMemcmpShort	808	1468224 ns/op	85.136872 MB/s
+BenchmarkTsMemcmpMid	907	1248920.6 ns/op	100.08643 MB/s
+BenchmarkTsMemcmpLong	1000	1195731 ns/op	104.53856 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1260	948777.78 ns/op	131.74845 MB/s
+BenchmarkMemcmpMid	1720	705400 ns/op	177.20442 MB/s
+BenchmarkMemcmpLong	1963	611061.64 ns/op	204.56201 MB/s
+BenchmarkBcmpShort	1342	848805.51 ns/op	147.26577 MB/s
+BenchmarkBcmpMid	1933	625088.98 ns/op	199.97153 MB/s
+BenchmarkBcmpLong	2199	554714.42 ns/op	225.34118 MB/s
+BenchmarkTsBcmpShort	1230	1013314.6 ns/op	123.35754 MB/s
+BenchmarkTsBcmpMid	1512	801672.62 ns/op	155.924 MB/s
+BenchmarkTsBcmpLong	1654	735050.18 ns/op	170.05642 MB/s
+BenchmarkTsMemcmpShort	820	1469945.1 ns/op	85.037188 MB/s
+BenchmarkTsMemcmpMid	954	1250728.5 ns/op	99.941753 MB/s
+BenchmarkTsMemcmpLong	922	1191623.6 ns/op	104.89889 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1263	954116.39 ns/op	131.01127 MB/s
+BenchmarkMemcmpMid	1717	705232.38 ns/op	177.24654 MB/s
+BenchmarkMemcmpLong	1946	620209.66 ns/op	201.54475 MB/s
+BenchmarkBcmpShort	1417	839403.67 ns/op	148.91524 MB/s
+BenchmarkBcmpMid	1722	617078.98 ns/op	202.56726 MB/s
+BenchmarkBcmpLong	2200	555444.09 ns/op	225.04515 MB/s
+BenchmarkTsBcmpShort	1214	986785.83 ns/op	126.67389 MB/s
+BenchmarkTsBcmpMid	1480	800527.7 ns/op	156.147 MB/s
+BenchmarkTsBcmpLong	1654	738671.1 ns/op	169.22281 MB/s
+BenchmarkTsMemcmpShort	813	1453676.5 ns/op	85.98887 MB/s
+BenchmarkTsMemcmpMid	931	1250838.9 ns/op	99.932934 MB/s
+BenchmarkTsMemcmpLong	968	1191809.9 ns/op	104.8825 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1192	950294.46 ns/op	131.53818 MB/s
+BenchmarkMemcmpMid	1722	706689.31 ns/op	176.88112 MB/s
+BenchmarkMemcmpLong	1963	618994.4 ns/op	201.94044 MB/s
+BenchmarkBcmpShort	1410	855770.21 ns/op	146.06725 MB/s
+BenchmarkBcmpMid	1924	626836.28 ns/op	199.41411 MB/s
+BenchmarkBcmpLong	2200	554608.64 ns/op	225.38416 MB/s
+BenchmarkTsBcmpShort	1255	966575.3 ns/op	129.32257 MB/s
+BenchmarkTsBcmpMid	1352	792659.02 ns/op	157.69706 MB/s
+BenchmarkTsBcmpLong	1656	736442.63 ns/op	169.73488 MB/s
+BenchmarkTsMemcmpShort	822	1473227.5 ns/op	84.847724 MB/s
+BenchmarkTsMemcmpMid	961	1272299.7 ns/op	98.247293 MB/s
+BenchmarkTsMemcmpLong	1012	1206573.1 ns/op	103.59919 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1252	951778.75 ns/op	131.33304 MB/s
+BenchmarkMemcmpMid	1716	710259.91 ns/op	175.99191 MB/s
+BenchmarkMemcmpLong	1890	623016.4 ns/op	200.63677 MB/s
+BenchmarkBcmpShort	1410	855878.01 ns/op	146.04885 MB/s
+BenchmarkBcmpMid	1939	623333.16 ns/op	200.53481 MB/s
+BenchmarkBcmpLong	2200	547384.55 ns/op	228.35866 MB/s
+BenchmarkTsBcmpShort	1129	970384.41 ns/op	128.81493 MB/s
+BenchmarkTsBcmpMid	1521	808015.78 ns/op	154.69995 MB/s
+BenchmarkTsBcmpLong	1646	734382.14 ns/op	170.21111 MB/s
+BenchmarkTsMemcmpShort	840	1468852.4 ns/op	85.100451 MB/s
+BenchmarkTsMemcmpMid	950	1266622.1 ns/op	98.687682 MB/s
+BenchmarkTsMemcmpLong	1012	1195242.1 ns/op	104.58132 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1257	964529.04 ns/op	129.59693 MB/s
+BenchmarkMemcmpMid	1714	679880.98 ns/op	183.85571 MB/s
+BenchmarkMemcmpLong	1963	616921.55 ns/op	202.61896 MB/s
+BenchmarkBcmpShort	1386	850496.39 ns/op	146.97299 MB/s
+BenchmarkBcmpMid	1954	625515.86 ns/op	199.83506 MB/s
+BenchmarkBcmpLong	2199	551983.17 ns/op	226.45618 MB/s
+BenchmarkTsBcmpShort	1155	1002742 ns/op	124.65819 MB/s
+BenchmarkTsBcmpMid	1513	796167.88 ns/op	157.00206 MB/s
+BenchmarkTsBcmpLong	1653	729352.69 ns/op	171.38485 MB/s
+BenchmarkTsMemcmpShort	782	1451323.5 ns/op	86.12828 MB/s
+BenchmarkTsMemcmpMid	930	1264363.4 ns/op	98.863978 MB/s
+BenchmarkTsMemcmpLong	1014	1196546.4 ns/op	104.46733 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1263	960613.62 ns/op	130.12516 MB/s
+BenchmarkMemcmpMid	1712	699741.82 ns/op	178.63731 MB/s
+BenchmarkMemcmpLong	1963	619986.25 ns/op	201.61738 MB/s
+BenchmarkBcmpShort	1399	862178.7 ns/op	144.98155 MB/s
+BenchmarkBcmpMid	1933	615545.27 ns/op	203.07199 MB/s
+BenchmarkBcmpLong	2199	547912.23 ns/op	228.13873 MB/s
+BenchmarkTsBcmpShort	1221	972327.6 ns/op	128.55749 MB/s
+BenchmarkTsBcmpMid	1488	791633.74 ns/op	157.9013 MB/s
+BenchmarkTsBcmpLong	1654	733709.19 ns/op	170.36723 MB/s
+BenchmarkTsMemcmpShort	814	1478145 ns/op	84.565454 MB/s
+BenchmarkTsMemcmpMid	957	1261955.1 ns/op	99.052655 MB/s
+BenchmarkTsMemcmpLong	1012	1196130.4 ns/op	104.50365 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1246	946219.9 ns/op	132.1046 MB/s
+BenchmarkMemcmpMid	1719	692045.96 ns/op	180.62384 MB/s
+BenchmarkMemcmpLong	1963	618025.47 ns/op	202.25704 MB/s
+BenchmarkBcmpShort	1383	854504.7 ns/op	146.28357 MB/s
+BenchmarkBcmpMid	1930	607321.24 ns/op	205.82188 MB/s
+BenchmarkBcmpLong	2091	557616.45 ns/op	224.16842 MB/s
+BenchmarkTsBcmpShort	1207	1003269.3 ns/op	124.59267 MB/s
+BenchmarkTsBcmpMid	1509	796501.66 ns/op	156.93627 MB/s
+BenchmarkTsBcmpLong	1654	735180.17 ns/op	170.02635 MB/s
+BenchmarkTsMemcmpShort	831	1474225 ns/op	84.790312 MB/s
+BenchmarkTsMemcmpMid	955	1261236.6 ns/op	99.109077 MB/s
+BenchmarkTsMemcmpLong	1011	1192223.5 ns/op	104.84611 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1279	952673.96 ns/op	131.20963 MB/s
+BenchmarkMemcmpMid	1719	698527.05 ns/op	178.94797 MB/s
+BenchmarkMemcmpLong	1963	618407.03 ns/op	202.13224 MB/s
+BenchmarkBcmpShort	1408	845397.73 ns/op	147.8594 MB/s
+BenchmarkBcmpMid	1930	613134.2 ns/op	203.87054 MB/s
+BenchmarkBcmpLong	2198	551023.2 ns/op	226.8507 MB/s
+BenchmarkTsBcmpShort	1219	1002281.4 ns/op	124.71548 MB/s
+BenchmarkTsBcmpMid	1536	783388.02 ns/op	159.56333 MB/s
+BenchmarkTsBcmpLong	1654	737383.31 ns/op	169.51835 MB/s
+BenchmarkTsMemcmpShort	829	1468893.8 ns/op	85.098049 MB/s
+BenchmarkTsMemcmpMid	957	1272779.5 ns/op	98.210254 MB/s
+BenchmarkTsMemcmpLong	1012	1191026.7 ns/op	104.95147 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1268	952237.38 ns/op	131.26979 MB/s
+BenchmarkMemcmpMid	1711	707159.56 ns/op	176.7635 MB/s
+BenchmarkMemcmpLong	1957	620708.23 ns/op	201.38286 MB/s
+BenchmarkBcmpShort	1429	847790.76 ns/op	147.44204 MB/s
+BenchmarkBcmpMid	1974	608254.31 ns/op	205.50615 MB/s
+BenchmarkBcmpLong	2197	552679.11 ns/op	226.17102 MB/s
+BenchmarkTsBcmpShort	1201	1009472.9 ns/op	123.82699 MB/s
+BenchmarkTsBcmpMid	1513	801861.2 ns/op	155.88733 MB/s
+BenchmarkTsBcmpLong	1640	733578.66 ns/op	170.39754 MB/s
+BenchmarkTsMemcmpShort	817	1464089.4 ns/op	85.377303 MB/s
+BenchmarkTsMemcmpMid	960	1263650 ns/op	98.919796 MB/s
+BenchmarkTsMemcmpLong	1014	1208533.5 ns/op	103.43114 MB/s
+os: FreeBSD
+arch: riscv
+
+BenchmarkMemcmpShort	1267	948640.88 ns/op	131.76746 MB/s
+BenchmarkMemcmpMid	1681	693852.47 ns/op	180.15357 MB/s
+BenchmarkMemcmpLong	1963	619916.45 ns/op	201.64007 MB/s
+BenchmarkBcmpShort	1434	851133.19 ns/op	146.86303 MB/s
+BenchmarkBcmpMid	1965	613665.14 ns/op	203.69415 MB/s
+BenchmarkBcmpLong	2199	547036.38 ns/op	228.504 MB/s
+BenchmarkTsBcmpShort	1156	971250 ns/op	128.70013 MB/s
+BenchmarkTsBcmpMid	1484	799043.13 ns/op	156.43711 MB/s
+BenchmarkTsBcmpLong	1653	733672.11 ns/op	170.37584 MB/s
+BenchmarkTsMemcmpShort	834	1494637.9 ns/op	83.632297 MB/s
+BenchmarkTsMemcmpMid	952	1267712.2 ns/op	98.602823 MB/s
+BenchmarkTsMemcmpLong	992	1199143.1 ns/op	104.2411 MB/s
