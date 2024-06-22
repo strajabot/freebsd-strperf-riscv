@@ -1,0 +1,15 @@
+os: FreeBSD
+arch: riscv
+        │ strlen_baseline │             strlen_scalar              │
+        │     sec/op      │   sec/op     vs base                   │
+Short        541.2µ ± 17%   401.6µ ± 0%  -25.78% (p=0.000 n=21+20)
+Mid          249.6µ ±  3%   191.9µ ± 0%  -23.13% (p=0.000 n=21+20)
+Long         124.6µ ±  0%   110.7µ ± 0%  -11.13% (p=0.000 n=21+20)
+geomean      256.3µ         204.3µ       -20.26%
+
+        │ strlen_baseline │              strlen_scalar               │
+        │       B/s       │      B/s       vs base                   │
+Short       220.3Mi ± 14%    296.8Mi ± 0%  +34.74% (p=0.000 n=21+20)
+Mid         477.6Mi ±  3%    621.3Mi ± 0%  +30.09% (p=0.000 n=21+20)
+Long        956.9Mi ±  0%   1076.7Mi ± 0%  +12.52% (p=0.000 n=21+20)
+geomean     465.2Mi          583.4Mi       +25.40%
