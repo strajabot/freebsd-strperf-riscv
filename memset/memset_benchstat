@@ -1,0 +1,19 @@
+os: FreeBSD
+arch: riscv
+        │ ./results/memset/memset_baseline │   ./results/memset/memset_scalar    │
+        │              sec/op              │   sec/op     vs base                │
+40                             527.5µ ± 1%   479.4µ ± 1%   -9.12% (p=0.000 n=20)
+168                            254.5µ ± 1%   216.7µ ± 1%  -14.86% (p=0.000 n=20)
+2k                             169.5µ ± 1%   128.4µ ± 0%  -24.24% (p=0.000 n=20)
+256k                           161.2µ ± 1%   118.6µ ± 1%  -26.42% (p=0.000 n=20)
+16m                            56.58m ± 0%   53.91m ± 0%   -4.72% (p=0.000 n=20)
+geomean                        730.2µ        611.2µ       -16.29%
+
+        │ ./results/memset/memset_baseline │    ./results/memset/memset_scalar     │
+        │               B/s                │      B/s       vs base                │
+40                            452.0Mi ± 1%    497.3Mi ± 1%  +10.04% (p=0.000 n=20)
+168                           936.9Mi ± 1%   1100.4Mi ± 1%  +17.45% (p=0.000 n=20)
+2k                            1.373Gi ± 1%    1.813Gi ± 0%  +32.00% (p=0.000 n=20)
+256k                          1.444Gi ± 1%    1.962Gi ± 1%  +35.91% (p=0.000 n=20)
+16m                           269.7Mi ± 0%    283.1Mi ± 0%   +4.96% (p=0.000 n=20)
+geomean                       750.1Mi         896.1Mi       +19.47%
