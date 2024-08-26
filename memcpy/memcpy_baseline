@@ -1,160 +1,264 @@
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1000	1213582 ns/op	206.00174 MB/s
-Benchmark4k	1226	987327.9 ns/op	253.20869 MB/s
-Benchmark256k	4189	296846.26 ns/op	842.18678 MB/s
-Benchmark16m	12	99627333 ns/op	160.5985 MB/s
-Benchmark1g	1	6.378548e+09 ns/op	160.5381 MB/s
+Benchmark64Align8	1024	1189910.2 ns/op	210.0999 MiB/s
+Benchmark4kAlign8	1207	990811.1 ns/op	252.31853 MiB/s
+Benchmark256kAlign8	4167	294925.37 ns/op	847.67209 MiB/s
+Benchmark16mAlign8	12	99315167 ns/op	161.10329 MiB/s
+Benchmark64UAlign	981	1208893 ns/op	206.80077 MiB/s
+Benchmark4kUAlign	991	1050731.6 ns/op	237.92946 MiB/s
+Benchmark256kUAlign	918	1199310.5 ns/op	208.45311 MiB/s
+Benchmark16mUAlign	7	1.5843143e+08 ns/op	100.99006 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1010	1201051.5 ns/op	208.15094 MB/s
-Benchmark4k	1204	997780.73 ns/op	250.55605 MB/s
-Benchmark256k	4202	298266.78 ns/op	838.17582 MB/s
-Benchmark16m	12	99538333 ns/op	160.74209 MB/s
-Benchmark1g	1	6.374809e+09 ns/op	160.63226 MB/s
+Benchmark64Align8	979	1187414.7 ns/op	210.54144 MiB/s
+Benchmark4kAlign8	1227	993211.9 ns/op	251.70862 MiB/s
+Benchmark256kAlign8	4197	294481.77 ns/op	848.94898 MiB/s
+Benchmark16mAlign8	12	99676000 ns/op	160.52009 MiB/s
+Benchmark64UAlign	866	1221744.8 ns/op	204.62538 MiB/s
+Benchmark4kUAlign	1088	1045664.5 ns/op	239.08242 MiB/s
+Benchmark256kUAlign	1010	1232772.3 ns/op	202.79496 MiB/s
+Benchmark16mUAlign	7	1.5860257e+08 ns/op	100.88109 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1022	1200547 ns/op	208.23842 MB/s
-Benchmark4k	1227	992288.51 ns/op	251.94286 MB/s
-Benchmark256k	4189	295470.28 ns/op	846.10879 MB/s
-Benchmark16m	12	99631500 ns/op	160.59178 MB/s
-Benchmark1g	1	6.373071e+09 ns/op	160.67607 MB/s
+Benchmark64Align8	980	1205478.6 ns/op	207.38652 MiB/s
+Benchmark4kAlign8	1228	986315.96 ns/op	253.46847 MiB/s
+Benchmark256kAlign8	4189	295589.4 ns/op	845.76781 MiB/s
+Benchmark16mAlign8	12	99629083 ns/op	160.59568 MiB/s
+Benchmark64UAlign	948	1271887.1 ns/op	196.55832 MiB/s
+Benchmark4kUAlign	1144	1064083 ns/op	234.94407 MiB/s
+Benchmark256kUAlign	1010	1219418.8 ns/op	205.0157 MiB/s
+Benchmark16mUAlign	7	1.5825214e+08 ns/op	101.10448 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	970	1204458.8 ns/op	207.56211 MB/s
-Benchmark4k	1227	992298.29 ns/op	251.94037 MB/s
-Benchmark256k	4180	286825.36 ns/op	871.61052 MB/s
-Benchmark16m	12	99467583 ns/op	160.85643 MB/s
-Benchmark1g	1	6.376717e+09 ns/op	160.5842 MB/s
+Benchmark64Align8	981	1189496.4 ns/op	210.17297 MiB/s
+Benchmark4kAlign8	1228	976254.89 ns/op	256.08066 MiB/s
+Benchmark256kAlign8	4201	297176.15 ns/op	841.2519 MiB/s
+Benchmark16mAlign8	12	99694833 ns/op	160.48976 MiB/s
+Benchmark64UAlign	946	1246559.2 ns/op	200.55205 MiB/s
+Benchmark4kUAlign	1143	1066768.2 ns/op	234.3527 MiB/s
+Benchmark256kUAlign	1010	1227403 ns/op	203.68209 MiB/s
+Benchmark16mUAlign	7	1.5827314e+08 ns/op	101.09106 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1028	1207179 ns/op	207.09439 MB/s
-Benchmark4k	1227	994941.32 ns/op	251.2711 MB/s
-Benchmark256k	4189	293581.52 ns/op	851.55223 MB/s
-Benchmark16m	12	99685000 ns/op	160.50559 MB/s
-Benchmark1g	1	6.371513e+09 ns/op	160.71536 MB/s
+Benchmark64Align8	980	1194276.5 ns/op	209.33175 MiB/s
+Benchmark4kAlign8	1228	977098.53 ns/op	255.85956 MiB/s
+Benchmark256kAlign8	4174	288115.72 ns/op	867.70692 MiB/s
+Benchmark16mAlign8	12	99371333 ns/op	161.01223 MiB/s
+Benchmark64UAlign	948	1257141.4 ns/op	198.86387 MiB/s
+Benchmark4kUAlign	1144	1065437.9 ns/op	234.6453 MiB/s
+Benchmark256kUAlign	1009	1223497.5 ns/op	204.33225 MiB/s
+Benchmark16mUAlign	7	1.5868514e+08 ns/op	100.82859 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1002	1202882.2 ns/op	207.83414 MB/s
-Benchmark4k	1225	988101.22 ns/op	253.01052 MB/s
-Benchmark256k	4200	293666.9 ns/op	851.30464 MB/s
-Benchmark16m	12	99791000 ns/op	160.3351 MB/s
-Benchmark1g	1	6.37277e+09 ns/op	160.68366 MB/s
+Benchmark64Align8	1016	1171383.9 ns/op	213.42278 MiB/s
+Benchmark4kAlign8	1227	986696.01 ns/op	253.37084 MiB/s
+Benchmark256kAlign8	4197	298273.53 ns/op	838.15685 MiB/s
+Benchmark16mAlign8	12	99458083 ns/op	160.87179 MiB/s
+Benchmark64UAlign	962	1257425.2 ns/op	198.81899 MiB/s
+Benchmark4kUAlign	1146	1045220.8 ns/op	239.18392 MiB/s
+Benchmark256kUAlign	933	1205847.8 ns/op	207.32301 MiB/s
+Benchmark16mUAlign	7	1.5848129e+08 ns/op	100.95829 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	991	1195653.9 ns/op	209.09061 MB/s
-Benchmark4k	1228	980233.71 ns/op	255.04122 MB/s
-Benchmark256k	4197	300569.45 ns/op	831.75451 MB/s
-Benchmark16m	12	99350667 ns/op	161.04572 MB/s
-Benchmark1g	1	6.379414e+09 ns/op	160.51631 MB/s
+Benchmark64Align8	975	1187208.2 ns/op	210.57806 MiB/s
+Benchmark4kAlign8	1225	987405.71 ns/op	253.18873 MiB/s
+Benchmark256kAlign8	4192	293046.52 ns/op	853.10688 MiB/s
+Benchmark16mAlign8	12	99429417 ns/op	160.91817 MiB/s
+Benchmark64UAlign	946	1265889 ns/op	197.48967 MiB/s
+Benchmark4kUAlign	1128	1044963.7 ns/op	239.24277 MiB/s
+Benchmark256kUAlign	1009	1212186.3 ns/op	206.23892 MiB/s
+Benchmark16mUAlign	7	1.5826229e+08 ns/op	101.098 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1023	1201137.8 ns/op	208.13598 MB/s
-Benchmark4k	1228	994936.48 ns/op	251.27232 MB/s
-Benchmark256k	4184	298694.55 ns/op	836.97543 MB/s
-Benchmark16m	12	99664333 ns/op	160.53888 MB/s
-Benchmark1g	1	6.377259e+09 ns/op	160.57055 MB/s
+Benchmark64Align8	1022	1187476.5 ns/op	210.53048 MiB/s
+Benchmark4kAlign8	1228	992367.26 ns/op	251.92286 MiB/s
+Benchmark256kAlign8	4197	291476.05 ns/op	857.70339 MiB/s
+Benchmark16mAlign8	12	99414667 ns/op	160.94205 MiB/s
+Benchmark64UAlign	946	1269058.1 ns/op	196.99649 MiB/s
+Benchmark4kUAlign	1146	1060775.7 ns/op	235.67658 MiB/s
+Benchmark256kUAlign	1010	1210215.8 ns/op	206.57472 MiB/s
+Benchmark16mUAlign	7	1.5858886e+08 ns/op	100.88981 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1027	1190247.3 ns/op	210.04038 MB/s
-Benchmark4k	1227	991625.92 ns/op	252.1112 MB/s
-Benchmark256k	3439	302607.44 ns/op	826.15284 MB/s
-Benchmark16m	12	99393500 ns/op	160.97632 MB/s
-Benchmark1g	1	6.371935e+09 ns/op	160.70472 MB/s
+Benchmark64Align8	955	1169767.5 ns/op	213.71768 MiB/s
+Benchmark4kAlign8	1180	974720.34 ns/op	256.48382 MiB/s
+Benchmark256kAlign8	4178	288094.06 ns/op	867.77213 MiB/s
+Benchmark16mAlign8	12	99708917 ns/op	160.46709 MiB/s
+Benchmark64UAlign	946	1250889 ns/op	199.85786 MiB/s
+Benchmark4kUAlign	1144	1060444.1 ns/op	235.7503 MiB/s
+Benchmark256kUAlign	1010	1217518.8 ns/op	205.33564 MiB/s
+Benchmark16mUAlign	7	1.5888786e+08 ns/op	100.69995 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1023	1188835.8 ns/op	210.28977 MB/s
-Benchmark4k	1135	975807.93 ns/op	256.19796 MB/s
-Benchmark256k	4136	300960.83 ns/op	830.67288 MB/s
-Benchmark16m	12	99531583 ns/op	160.75299 MB/s
-Benchmark1g	1	6.380626e+09 ns/op	160.48582 MB/s
+Benchmark64Align8	963	1195568 ns/op	209.10563 MiB/s
+Benchmark4kAlign8	1218	988528.74 ns/op	252.9011 MiB/s
+Benchmark256kAlign8	4200	293495 ns/op	851.80327 MiB/s
+Benchmark16mAlign8	12	99488333 ns/op	160.82288 MiB/s
+Benchmark64UAlign	993	1236486.4 ns/op	202.18581 MiB/s
+Benchmark4kUAlign	1140	1058857 ns/op	236.10364 MiB/s
+Benchmark256kUAlign	892	1185522.4 ns/op	210.8775 MiB/s
+Benchmark16mUAlign	7	1.5832843e+08 ns/op	101.05576 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1020	1194207.8 ns/op	209.34379 MB/s
-Benchmark4k	1227	987479.22 ns/op	253.16989 MB/s
-Benchmark256k	4197	297698.36 ns/op	839.77622 MB/s
-Benchmark16m	12	99717333 ns/op	160.45355 MB/s
-Benchmark1g	1	6.378638e+09 ns/op	160.53584 MB/s
+Benchmark64Align8	981	1182090.7 ns/op	211.48969 MiB/s
+Benchmark4kAlign8	1227	988566.42 ns/op	252.89145 MiB/s
+Benchmark256kAlign8	4201	293953.34 ns/op	850.4751 MiB/s
+Benchmark16mAlign8	12	99499417 ns/op	160.80496 MiB/s
+Benchmark64UAlign	974	1232321.4 ns/op	202.86916 MiB/s
+Benchmark4kUAlign	1112	1055071 ns/op	236.95087 MiB/s
+Benchmark256kUAlign	984	1194228.7 ns/op	209.34014 MiB/s
+Benchmark16mUAlign	7	1.5820386e+08 ns/op	101.13533 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1003	1192626.1 ns/op	209.62144 MB/s
-Benchmark4k	1185	976202.53 ns/op	256.0944 MB/s
-Benchmark256k	4197	285105.08 ns/op	876.86969 MB/s
-Benchmark16m	12	99516250 ns/op	160.77776 MB/s
-Benchmark1g	1	6.379236e+09 ns/op	160.52079 MB/s
+Benchmark64Align8	980	1185365.3 ns/op	210.90545 MiB/s
+Benchmark4kAlign8	1230	986798.37 ns/op	253.34456 MiB/s
+Benchmark256kAlign8	4152	297204.72 ns/op	841.17103 MiB/s
+Benchmark16mAlign8	12	99774417 ns/op	160.36175 MiB/s
+Benchmark64UAlign	916	1210995.6 ns/op	206.4417 MiB/s
+Benchmark4kUAlign	1146	1047807.2 ns/op	238.59352 MiB/s
+Benchmark256kUAlign	1009	1224283.4 ns/op	204.20108 MiB/s
+Benchmark16mUAlign	7	1.58211e+08 ns/op	101.13077 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	912	1196202.9 ns/op	208.99465 MB/s
-Benchmark4k	1150	976076.52 ns/op	256.12746 MB/s
-Benchmark256k	4178	285488.51 ns/op	875.69198 MB/s
-Benchmark16m	12	99395833 ns/op	160.97254 MB/s
-Benchmark1g	1	6.3733e+09 ns/op	160.6703 MB/s
+Benchmark64Align8	972	1179950.6 ns/op	211.87327 MiB/s
+Benchmark4kAlign8	1228	986986.97 ns/op	253.29615 MiB/s
+Benchmark256kAlign8	4177	302012.45 ns/op	827.78045 MiB/s
+Benchmark16mAlign8	12	99671083 ns/op	160.528 MiB/s
+Benchmark64UAlign	992	1231153.2 ns/op	203.06165 MiB/s
+Benchmark4kUAlign	1143	1058274.7 ns/op	236.23356 MiB/s
+Benchmark256kUAlign	1010	1222544.6 ns/op	204.49152 MiB/s
+Benchmark16mUAlign	7	1.5866929e+08 ns/op	100.83867 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1009	1201137.8 ns/op	208.13599 MB/s
-Benchmark4k	1228	987954.4 ns/op	253.04812 MB/s
-Benchmark256k	4195	295487.49 ns/op	846.05952 MB/s
-Benchmark16m	12	99479583 ns/op	160.83702 MB/s
-Benchmark1g	1	6.379142e+09 ns/op	160.52315 MB/s
+Benchmark64Align8	900	1183192.2 ns/op	211.2928 MiB/s
+Benchmark4kAlign8	1179	979817.64 ns/op	255.14952 MiB/s
+Benchmark256kAlign8	4188	290224.69 ns/op	861.40156 MiB/s
+Benchmark16mAlign8	12	99375250 ns/op	161.00588 MiB/s
+Benchmark64UAlign	964	1236471 ns/op	202.18833 MiB/s
+Benchmark4kUAlign	1146	1059829.8 ns/op	235.88692 MiB/s
+Benchmark256kUAlign	1010	1219631.7 ns/op	204.97992 MiB/s
+Benchmark16mUAlign	7	1.5856786e+08 ns/op	100.90317 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1020	1192608.8 ns/op	209.62448 MB/s
-Benchmark4k	1226	991977.16 ns/op	252.02193 MB/s
-Benchmark256k	4198	293875.18 ns/op	850.70131 MB/s
-Benchmark16m	12	99472083 ns/op	160.84915 MB/s
-Benchmark1g	1	6.380011e+09 ns/op	160.50129 MB/s
+Benchmark64Align8	999	1177116.1 ns/op	212.38347 MiB/s
+Benchmark4kAlign8	1227	993188.26 ns/op	251.71461 MiB/s
+Benchmark256kAlign8	4196	296784.8 ns/op	842.36121 MiB/s
+Benchmark16mAlign8	12	99488083 ns/op	160.82328 MiB/s
+Benchmark64UAlign	991	1220008.1 ns/op	204.91668 MiB/s
+Benchmark4kUAlign	1100	1045241.8 ns/op	239.1791 MiB/s
+Benchmark256kUAlign	978	1186039.9 ns/op	210.78549 MiB/s
+Benchmark16mUAlign	7	1.5832886e+08 ns/op	101.05549 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1028	1198130.4 ns/op	208.65843 MB/s
-Benchmark4k	1096	986904.2 ns/op	253.31739 MB/s
-Benchmark256k	4011	288589.88 ns/op	866.28125 MB/s
-Benchmark16m	12	99271167 ns/op	161.17469 MB/s
-Benchmark1g	1	6.381702e+09 ns/op	160.45876 MB/s
+Benchmark64Align8	967	1186870.7 ns/op	210.63793 MiB/s
+Benchmark4kAlign8	1227	987658.52 ns/op	253.12392 MiB/s
+Benchmark256kAlign8	4197	296070.53 ns/op	844.3934 MiB/s
+Benchmark16mAlign8	12	99366583 ns/op	161.01993 MiB/s
+Benchmark64UAlign	933	1219047.2 ns/op	205.0782 MiB/s
+Benchmark4kUAlign	1134	1045017.6 ns/op	239.23041 MiB/s
+Benchmark256kUAlign	1010	1209286.1 ns/op	206.73354 MiB/s
+Benchmark16mUAlign	7	1.5830971e+08 ns/op	101.06771 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1022	1183837.6 ns/op	211.17762 MB/s
-Benchmark4k	1228	997926.71 ns/op	250.5194 MB/s
-Benchmark256k	4183	285299.07 ns/op	876.27346 MB/s
-Benchmark16m	12	99500250 ns/op	160.80362 MB/s
-Benchmark1g	1	6.373283e+09 ns/op	160.67072 MB/s
+Benchmark64Align8	960	1186969.8 ns/op	210.62036 MiB/s
+Benchmark4kAlign8	1228	987118.89 ns/op	253.2623 MiB/s
+Benchmark256kAlign8	4190	293272.55 ns/op	852.44936 MiB/s
+Benchmark16mAlign8	12	99745917 ns/op	160.40757 MiB/s
+Benchmark64UAlign	967	1213280.2 ns/op	206.05297 MiB/s
+Benchmark4kUAlign	1144	1060306.8 ns/op	235.78081 MiB/s
+Benchmark256kUAlign	1009	1210453.9 ns/op	206.53409 MiB/s
+Benchmark16mUAlign	7	1.5847886e+08 ns/op	100.95984 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1021	1189980.4 ns/op	210.08749 MB/s
-Benchmark4k	1227	988628.36 ns/op	252.87561 MB/s
-Benchmark256k	4195	297270.8 ns/op	840.98405 MB/s
-Benchmark16m	12	99851417 ns/op	160.23809 MB/s
-Benchmark1g	1	6.380855e+09 ns/op	160.48006 MB/s
+Benchmark64Align8	975	1185348.7 ns/op	210.9084 MiB/s
+Benchmark4kAlign8	1228	987591.21 ns/op	253.14118 MiB/s
+Benchmark256kAlign8	4192	285473.76 ns/op	875.73723 MiB/s
+Benchmark16mAlign8	12	99488167 ns/op	160.82315 MiB/s
+Benchmark64UAlign	967	1245297.8 ns/op	200.75519 MiB/s
+Benchmark4kUAlign	1144	1059171.3 ns/op	236.03358 MiB/s
+Benchmark256kUAlign	1009	1225068.4 ns/op	204.07024 MiB/s
+Benchmark16mUAlign	7	1.5850571e+08 ns/op	100.94273 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1027	1197822.8 ns/op	208.71201 MB/s
-Benchmark4k	1227	990080.68 ns/op	252.50467 MB/s
-Benchmark256k	4198	300877.32 ns/op	830.90343 MB/s
-Benchmark16m	12	99693417 ns/op	160.49204 MB/s
-Benchmark1g	1	6.377043e+09 ns/op	160.57599 MB/s
+Benchmark64Align8	1011	1176893.2 ns/op	212.4237 MiB/s
+Benchmark4kAlign8	1228	987238.6 ns/op	253.23159 MiB/s
+Benchmark256kAlign8	4160	294959.86 ns/op	847.57297 MiB/s
+Benchmark16mAlign8	12	99346667 ns/op	161.05221 MiB/s
+Benchmark64UAlign	972	1247802.5 ns/op	200.35222 MiB/s
+Benchmark4kUAlign	1136	1047507 ns/op	238.66188 MiB/s
+Benchmark256kUAlign	966	1206262.9 ns/op	207.25166 MiB/s
+Benchmark16mUAlign	7	1.5977371e+08 ns/op	100.14163 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark64	1009	1180577.8 ns/op	211.76072 MB/s
-Benchmark4k	1227	987668.3 ns/op	253.12142 MB/s
-Benchmark256k	4197	294087.68 ns/op	850.08661 MB/s
-Benchmark16m	12	99415250 ns/op	160.9411 MB/s
-Benchmark1g	1	6.37772e+09 ns/op	160.55895 MB/s
+Benchmark64Align8	1009	1230332 ns/op	203.19718 MiB/s
+Benchmark4kAlign8	1179	1028308.7 ns/op	243.11765 MiB/s
+Benchmark256kAlign8	4162	313462.28 ns/op	797.54413 MiB/s
+Benchmark16mAlign8	12	1.0006292e+08 ns/op	159.8994 MiB/s
+Benchmark64UAlign	946	1261751.6 ns/op	198.13726 MiB/s
+Benchmark4kUAlign	1134	1107076.7 ns/op	225.81994 MiB/s
+Benchmark256kUAlign	919	1292228.5 ns/op	193.46424 MiB/s
+Benchmark16mUAlign	7	1.5967971e+08 ns/op	100.20058 MiB/s
+os: FreeBSD
+arch: riscv
+
+Benchmark64Align8	932	1208517.2 ns/op	206.86508 MiB/s
+Benchmark4kAlign8	1108	1015244.6 ns/op	246.24608 MiB/s
+Benchmark256kAlign8	3852	307831.26 ns/op	812.13325 MiB/s
+Benchmark16mAlign8	12	1.0032992e+08 ns/op	159.47387 MiB/s
+Benchmark64UAlign	948	1282477.8 ns/op	194.93514 MiB/s
+Benchmark4kUAlign	1120	1100800 ns/op	227.10756 MiB/s
+Benchmark256kUAlign	958	1278992.7 ns/op	195.46632 MiB/s
+Benchmark16mUAlign	7	1.59844e+08 ns/op	100.0976 MiB/s
+os: FreeBSD
+arch: riscv
+
+Benchmark64Align8	994	1220360.2 ns/op	204.85756 MiB/s
+Benchmark4kAlign8	1202	1019914.3 ns/op	245.11863 MiB/s
+Benchmark256kAlign8	3676	319427.91 ns/op	782.6492 MiB/s
+Benchmark16mAlign8	10	1.004439e+08 ns/op	159.2929 MiB/s
+Benchmark64UAlign	930	1254928 ns/op	199.21462 MiB/s
+Benchmark4kUAlign	987	1080933.1 ns/op	231.28165 MiB/s
+Benchmark256kUAlign	859	1295083.8 ns/op	193.0377 MiB/s
+Benchmark16mUAlign	7	1.59605e+08 ns/op	100.24749 MiB/s
+os: FreeBSD
+arch: riscv
+
+Benchmark64Align8	969	1230754.4 ns/op	203.12745 MiB/s
+Benchmark4kAlign8	1162	1023652.3 ns/op	244.22355 MiB/s
+Benchmark256kAlign8	3874	314579.5 ns/op	794.71166 MiB/s
+Benchmark16mAlign8	10	1.005042e+08 ns/op	159.19733 MiB/s
+Benchmark64UAlign	932	1254982.8 ns/op	199.20591 MiB/s
+Benchmark4kUAlign	993	1080231.6 ns/op	231.43185 MiB/s
+Benchmark256kUAlign	913	1253660.5 ns/op	199.41604 MiB/s
+Benchmark16mUAlign	7	1.59798e+08 ns/op	100.12641 MiB/s
+os: FreeBSD
+arch: riscv
+
+Benchmark64Align8	963	1220934.6 ns/op	204.76118 MiB/s
+Benchmark4kAlign8	1165	1025886.7 ns/op	243.69163 MiB/s
+Benchmark256kAlign8	3738	315123.6 ns/op	793.33951 MiB/s
+Benchmark16mAlign8	10	1.004929e+08 ns/op	159.21523 MiB/s
+Benchmark64UAlign	948	1250166.7 ns/op	199.97334 MiB/s
+Benchmark4kUAlign	1094	1077634.4 ns/op	231.98963 MiB/s
+Benchmark256kUAlign	970	1288696.9 ns/op	193.99441 MiB/s
+Benchmark16mUAlign	7	1.6020986e+08 ns/op	99.869011 MiB/s

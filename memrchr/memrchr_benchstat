@@ -1,0 +1,22 @@
+os: FreeBSD
+arch: riscv
+        │ memrchr_baseline │           memrchr_scalar            │
+        │      sec/op      │   sec/op     vs base                │
+Short          835.6µ ± 1%   506.7µ ± 2%  -39.36% (p=0.000 n=20)
+Mid            639.2µ ± 1%   226.9µ ± 1%  -64.50% (p=0.000 n=20)
+Long           569.9µ ± 0%   121.3µ ± 0%  -78.72% (p=0.000 n=20)
+geomean        672.7µ        240.7µ       -64.22%
+
+        │ memrchr_baseline │
+        │       B/s        │
+Short         142.7Mi ± 1%
+Mid           186.5Mi ± 1%
+Long          209.2Mi ± 0%
+geomean       177.2Mi
+
+        │ memrchr_scalar │
+        │     MiB/s      │
+Short         246.7 ± 2%
+Mid           550.9 ± 1%
+Long         1.030k ± 0%
+geomean       519.3

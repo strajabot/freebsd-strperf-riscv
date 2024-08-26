@@ -1,0 +1,15 @@
+os: FreeBSD
+arch: riscv
+        │ strchrnul_baseline │          strchrnul_scalar           │
+        │       sec/op       │   sec/op     vs base                │
+Short            680.2µ ± 5%   435.3µ ± 0%  -36.01% (p=0.000 n=20)
+Mid              314.7µ ± 3%   221.4µ ± 0%  -29.63% (p=0.000 n=20)
+Long             152.3µ ± 0%   138.5µ ± 0%   -9.08% (p=0.000 n=20)
+geomean          319.5µ        237.2µ       -25.75%
+
+        │ strchrnul_baseline │          strchrnul_scalar          │
+        │       MiB/s        │   MiB/s     vs base                │
+Short             183.8 ± 5%   287.2 ± 0%  +56.27% (p=0.000 n=20)
+Mid               397.3 ± 3%   564.6 ± 0%  +42.12% (p=0.000 n=20)
+Long              820.5 ± 0%   902.5 ± 0%   +9.99% (p=0.000 n=20)
+geomean           391.3        527.0       +34.68%

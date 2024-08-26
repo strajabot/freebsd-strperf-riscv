@@ -1,126 +1,126 @@
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1946	679299.59 ns/op	184.01307 MB/s
-BenchmarkMid	4208	290603.85 ns/op	430.13883 MB/s
-BenchmarkLong	9577	124450.77 ns/op	1004.4133 MB/s
+BenchmarkShort	1946	679299.59 ns/op	184.01307 MiB/s
+BenchmarkMid	4208	290603.85 ns/op	430.13883 MiB/s
+BenchmarkLong	9577	124450.77 ns/op	1004.4133 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2269	531524.9 ns/op	235.17243 MB/s
-BenchmarkMid	4984	242174.76 ns/op	516.15619 MB/s
-BenchmarkLong	9670	124581.59 ns/op	1003.3585 MB/s
+BenchmarkShort	2269	531524.9 ns/op	235.17243 MiB/s
+BenchmarkMid	4984	242174.76 ns/op	516.15619 MiB/s
+BenchmarkLong	9670	124581.59 ns/op	1003.3585 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2223	529018.44 ns/op	236.28666 MB/s
-BenchmarkMid	4986	242496.79 ns/op	515.47074 MB/s
-BenchmarkLong	9680	124690.08 ns/op	1002.4855 MB/s
+BenchmarkShort	2223	529018.44 ns/op	236.28666 MiB/s
+BenchmarkMid	4986	242496.79 ns/op	515.47074 MiB/s
+BenchmarkLong	9680	124690.08 ns/op	1002.4855 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2266	532072.82 ns/op	234.93025 MB/s
-BenchmarkMid	4299	246945.57 ns/op	506.18442 MB/s
-BenchmarkLong	9668	123909.39 ns/op	1008.8017 MB/s
+BenchmarkShort	2266	532072.82 ns/op	234.93025 MiB/s
+BenchmarkMid	4299	246945.57 ns/op	506.18442 MiB/s
+BenchmarkLong	9668	123909.39 ns/op	1008.8017 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2109	547355.62 ns/op	228.37073 MB/s
-BenchmarkMid	4360	244919.04 ns/op	510.37274 MB/s
-BenchmarkLong	9692	124702.95 ns/op	1002.3821 MB/s
+BenchmarkShort	2109	547355.62 ns/op	228.37073 MiB/s
+BenchmarkMid	4360	244919.04 ns/op	510.37274 MiB/s
+BenchmarkLong	9692	124702.95 ns/op	1002.3821 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1861	663771.09 ns/op	188.31793 MB/s
-BenchmarkMid	4749	255963.57 ns/op	488.35074 MB/s
-BenchmarkLong	9685	124718.33 ns/op	1002.2585 MB/s
+BenchmarkShort	1861	663771.09 ns/op	188.31793 MiB/s
+BenchmarkMid	4749	255963.57 ns/op	488.35074 MiB/s
+BenchmarkLong	9685	124718.33 ns/op	1002.2585 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2270	631181.5 ns/op	198.04129 MB/s
-BenchmarkMid	4342	242822.89 ns/op	514.77848 MB/s
-BenchmarkLong	9670	124502.48 ns/op	1003.996 MB/s
+BenchmarkShort	2270	631181.5 ns/op	198.04129 MiB/s
+BenchmarkMid	4342	242822.89 ns/op	514.77848 MiB/s
+BenchmarkLong	9670	124502.48 ns/op	1003.996 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2265	541152.76 ns/op	230.98838 MB/s
-BenchmarkMid	4953	251506.97 ns/op	497.00413 MB/s
-BenchmarkLong	9690	123666.98 ns/op	1010.7791 MB/s
+BenchmarkShort	2265	541152.76 ns/op	230.98838 MiB/s
+BenchmarkMid	4953	251506.97 ns/op	497.00413 MiB/s
+BenchmarkLong	9690	123666.98 ns/op	1010.7791 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2095	530888.78 ns/op	235.45421 MB/s
-BenchmarkMid	4250	242584 ns/op	515.28543 MB/s
-BenchmarkLong	9698	124440.4 ns/op	1004.4969 MB/s
+BenchmarkShort	2095	530888.78 ns/op	235.45421 MiB/s
+BenchmarkMid	4250	242584 ns/op	515.28543 MiB/s
+BenchmarkLong	9698	124440.4 ns/op	1004.4969 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2259	532251.88 ns/op	234.85121 MB/s
-BenchmarkMid	4346	255320.52 ns/op	489.5807 MB/s
-BenchmarkLong	9698	124570.01 ns/op	1003.4518 MB/s
+BenchmarkShort	2259	532251.88 ns/op	234.85121 MiB/s
+BenchmarkMid	4346	255320.52 ns/op	489.5807 MiB/s
+BenchmarkLong	9698	124570.01 ns/op	1003.4518 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1922	637793.96 ns/op	195.98806 MB/s
-BenchmarkMid	4340	259252.53 ns/op	482.15536 MB/s
-BenchmarkLong	9692	124703.47 ns/op	1002.3779 MB/s
+BenchmarkShort	1922	637793.96 ns/op	195.98806 MiB/s
+BenchmarkMid	4340	259252.53 ns/op	482.15536 MiB/s
+BenchmarkLong	9692	124703.47 ns/op	1002.3779 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1819	638739.42 ns/op	195.69796 MB/s
-BenchmarkMid	4128	263759.93 ns/op	473.9158 MB/s
-BenchmarkLong	9680	124660.02 ns/op	1002.7273 MB/s
+BenchmarkShort	1819	638739.42 ns/op	195.69796 MiB/s
+BenchmarkMid	4128	263759.93 ns/op	473.9158 MiB/s
+BenchmarkLong	9680	124660.02 ns/op	1002.7273 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1845	649811.38 ns/op	192.36351 MB/s
-BenchmarkMid	4982	251606.99 ns/op	496.80656 MB/s
-BenchmarkLong	9691	124406.67 ns/op	1004.7693 MB/s
+BenchmarkShort	1845	649811.38 ns/op	192.36351 MiB/s
+BenchmarkMid	4982	251606.99 ns/op	496.80656 MiB/s
+BenchmarkLong	9691	124406.67 ns/op	1004.7693 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2268	557990.3 ns/op	224.01823 MB/s
-BenchmarkMid	4063	248492.99 ns/op	503.03231 MB/s
-BenchmarkLong	9686	124644.33 ns/op	1002.8535 MB/s
+BenchmarkShort	2268	557990.3 ns/op	224.01823 MiB/s
+BenchmarkMid	4063	248492.99 ns/op	503.03231 MiB/s
+BenchmarkLong	9686	124644.33 ns/op	1002.8535 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2269	531649.18 ns/op	235.11745 MB/s
-BenchmarkMid	4974	243011.26 ns/op	514.37946 MB/s
-BenchmarkLong	9688	123861.37 ns/op	1009.1927 MB/s
+BenchmarkShort	2269	531649.18 ns/op	235.11745 MiB/s
+BenchmarkMid	4974	243011.26 ns/op	514.37946 MiB/s
+BenchmarkLong	9688	123861.37 ns/op	1009.1927 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1789	627768.03 ns/op	199.11814 MB/s
-BenchmarkMid	4704	249606.93 ns/op	500.78738 MB/s
-BenchmarkLong	9667	124619.94 ns/op	1003.0497 MB/s
+BenchmarkShort	1789	627768.03 ns/op	199.11814 MiB/s
+BenchmarkMid	4704	249606.93 ns/op	500.78738 MiB/s
+BenchmarkLong	9667	124619.94 ns/op	1003.0497 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2257	533270.71 ns/op	234.40252 MB/s
-BenchmarkMid	4972	248863.23 ns/op	502.28392 MB/s
-BenchmarkLong	9688	124011.25 ns/op	1007.9731 MB/s
+BenchmarkShort	2257	533270.71 ns/op	234.40252 MiB/s
+BenchmarkMid	4972	248863.23 ns/op	502.28392 MiB/s
+BenchmarkLong	9688	124011.25 ns/op	1007.9731 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2258	537414.08 ns/op	232.59532 MB/s
-BenchmarkMid	4486	244007.58 ns/op	512.27917 MB/s
-BenchmarkLong	9686	124632.05 ns/op	1002.9523 MB/s
+BenchmarkShort	2258	537414.08 ns/op	232.59532 MiB/s
+BenchmarkMid	4486	244007.58 ns/op	512.27917 MiB/s
+BenchmarkLong	9686	124632.05 ns/op	1002.9523 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2179	531681.05 ns/op	235.10336 MB/s
-BenchmarkMid	4335	276151.79 ns/op	452.64961 MB/s
-BenchmarkLong	9675	124681.45 ns/op	1002.5549 MB/s
+BenchmarkShort	2179	531681.05 ns/op	235.10336 MiB/s
+BenchmarkMid	4335	276151.79 ns/op	452.64961 MiB/s
+BenchmarkLong	9675	124681.45 ns/op	1002.5549 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	2247	528846.91 ns/op	236.3633 MB/s
-BenchmarkMid	4470	275130.43 ns/op	454.32998 MB/s
-BenchmarkLong	9673	124609.43 ns/op	1003.1344 MB/s
+BenchmarkShort	2247	528846.91 ns/op	236.3633 MiB/s
+BenchmarkMid	4470	275130.43 ns/op	454.32998 MiB/s
+BenchmarkLong	9673	124609.43 ns/op	1003.1344 MiB/s
 os: FreeBSD
 arch: riscv
 
-BenchmarkShort	1974	552911.35 ns/op	226.07603 MB/s
-BenchmarkMid	4342	256885.54 ns/op	486.59805 MB/s
-BenchmarkLong	9686	123863.82 ns/op	1009.1728 MB/s
+BenchmarkShort	1974	552911.35 ns/op	226.07603 MiB/s
+BenchmarkMid	4342	256885.54 ns/op	486.59805 MiB/s
+BenchmarkLong	9686	123863.82 ns/op	1009.1728 MiB/s

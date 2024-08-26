@@ -1,160 +1,160 @@
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2293	530686.44 ns/op	471.08798 MB/s
-Benchmark168	4756	255649.71 ns/op	977.9006 MB/s
-Benchmark2k	7125	170306.95 ns/op	1467.9378 MB/s
-Benchmark256k	7522	162159.8 ns/op	1541.6891 MB/s
-Benchmark16m	21	56394048 ns/op	283.71789 MB/s
+Benchmark40	2293	530686.44 ns/op	471.08798 MiB/s
+Benchmark168	4756	255649.71 ns/op	977.9006 MiB/s
+Benchmark2k	7125	170306.95 ns/op	1467.9378 MiB/s
+Benchmark256k	7522	162159.8 ns/op	1541.6891 MiB/s
+Benchmark16m	21	56394048 ns/op	283.71789 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2296	531076.66 ns/op	470.74184 MB/s
-Benchmark168	4744	255921.37 ns/op	976.86253 MB/s
-Benchmark2k	7161	170497 ns/op	1466.3015 MB/s
-Benchmark256k	7501	160163.98 ns/op	1560.9003 MB/s
-Benchmark16m	20	56836900 ns/op	281.50726 MB/s
+Benchmark40	2296	531076.66 ns/op	470.74184 MiB/s
+Benchmark168	4744	255921.37 ns/op	976.86253 MiB/s
+Benchmark2k	7161	170497 ns/op	1466.3015 MiB/s
+Benchmark256k	7501	160163.98 ns/op	1560.9003 MiB/s
+Benchmark16m	20	56836900 ns/op	281.50726 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2290	523068.12 ns/op	477.94922 MB/s
-Benchmark168	4754	252722.76 ns/op	989.2263 MB/s
-Benchmark2k	7149	168538.4 ns/op	1483.3415 MB/s
-Benchmark256k	7496	161153.55 ns/op	1551.3155 MB/s
-Benchmark16m	20	56052900 ns/op	285.44464 MB/s
+Benchmark40	2290	523068.12 ns/op	477.94922 MiB/s
+Benchmark168	4754	252722.76 ns/op	989.2263 MiB/s
+Benchmark2k	7149	168538.4 ns/op	1483.3415 MiB/s
+Benchmark256k	7496	161153.55 ns/op	1551.3155 MiB/s
+Benchmark16m	20	56052900 ns/op	285.44464 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2289	534709.04 ns/op	467.54399 MB/s
-Benchmark168	4750	257046.53 ns/op	972.58657 MB/s
-Benchmark2k	7128	170283.95 ns/op	1468.136 MB/s
-Benchmark256k	7504	162697.49 ns/op	1536.594 MB/s
-Benchmark16m	21	56303238 ns/op	284.17549 MB/s
+Benchmark40	2289	534709.04 ns/op	467.54399 MiB/s
+Benchmark168	4750	257046.53 ns/op	972.58657 MiB/s
+Benchmark2k	7128	170283.95 ns/op	1468.136 MiB/s
+Benchmark256k	7504	162697.49 ns/op	1536.594 MiB/s
+Benchmark16m	21	56303238 ns/op	284.17549 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2294	533643.85 ns/op	468.47724 MB/s
-Benchmark168	4746	255950.48 ns/op	976.75142 MB/s
-Benchmark2k	7124	170786.08 ns/op	1463.8196 MB/s
-Benchmark256k	7498	161930.11 ns/op	1543.8759 MB/s
-Benchmark16m	20	56301550 ns/op	284.18401 MB/s
+Benchmark40	2294	533643.85 ns/op	468.47724 MiB/s
+Benchmark168	4746	255950.48 ns/op	976.75142 MiB/s
+Benchmark2k	7124	170786.08 ns/op	1463.8196 MiB/s
+Benchmark256k	7498	161930.11 ns/op	1543.8759 MiB/s
+Benchmark16m	20	56301550 ns/op	284.18401 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2298	532094.87 ns/op	469.84103 MB/s
-Benchmark168	4759	255268.75 ns/op	979.35997 MB/s
-Benchmark2k	7149	170461.88 ns/op	1466.6035 MB/s
-Benchmark256k	7491	161342.94 ns/op	1549.4945 MB/s
-Benchmark16m	20	56752650 ns/op	281.92516 MB/s
+Benchmark40	2298	532094.87 ns/op	469.84103 MiB/s
+Benchmark168	4759	255268.75 ns/op	979.35997 MiB/s
+Benchmark2k	7149	170461.88 ns/op	1466.6035 MiB/s
+Benchmark256k	7491	161342.94 ns/op	1549.4945 MiB/s
+Benchmark16m	20	56752650 ns/op	281.92516 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2298	523845.95 ns/op	477.23954 MB/s
-Benchmark168	4098	252316.25 ns/op	990.82005 MB/s
-Benchmark2k	7171	169155.77 ns/op	1477.9277 MB/s
-Benchmark256k	7495	159259.77 ns/op	1569.7624 MB/s
-Benchmark16m	20	56737950 ns/op	281.9982 MB/s
+Benchmark40	2298	523845.95 ns/op	477.23954 MiB/s
+Benchmark168	4098	252316.25 ns/op	990.82005 MiB/s
+Benchmark2k	7171	169155.77 ns/op	1477.9277 MiB/s
+Benchmark256k	7495	159259.77 ns/op	1569.7624 MiB/s
+Benchmark16m	20	56737950 ns/op	281.9982 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2292	523866.93 ns/op	477.22043 MB/s
-Benchmark168	4750	252924.42 ns/op	988.43757 MB/s
-Benchmark2k	7124	168392.9 ns/op	1484.6232 MB/s
-Benchmark256k	7497	159577.43 ns/op	1566.6376 MB/s
-Benchmark16m	20	56472800 ns/op	283.32224 MB/s
+Benchmark40	2292	523866.93 ns/op	477.22043 MiB/s
+Benchmark168	4750	252924.42 ns/op	988.43757 MiB/s
+Benchmark2k	7124	168392.9 ns/op	1484.6232 MiB/s
+Benchmark256k	7497	159577.43 ns/op	1566.6376 MiB/s
+Benchmark16m	20	56472800 ns/op	283.32224 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2294	531684.39 ns/op	470.20376 MB/s
-Benchmark168	4746	255586.6 ns/op	978.14205 MB/s
-Benchmark2k	7117	170664.47 ns/op	1464.8626 MB/s
-Benchmark256k	7500	162474.27 ns/op	1538.7052 MB/s
-Benchmark16m	20	56310850 ns/op	284.13707 MB/s
+Benchmark40	2294	531684.39 ns/op	470.20376 MiB/s
+Benchmark168	4746	255586.6 ns/op	978.14205 MiB/s
+Benchmark2k	7117	170664.47 ns/op	1464.8626 MiB/s
+Benchmark256k	7500	162474.27 ns/op	1538.7052 MiB/s
+Benchmark16m	20	56310850 ns/op	284.13707 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2294	533283.78 ns/op	468.79355 MB/s
-Benchmark168	4750	255940.21 ns/op	976.79063 MB/s
-Benchmark2k	7156	169896.03 ns/op	1471.4882 MB/s
-Benchmark256k	7492	161617.33 ns/op	1546.8639 MB/s
-Benchmark16m	21	56479190 ns/op	283.29018 MB/s
+Benchmark40	2294	533283.78 ns/op	468.79355 MiB/s
+Benchmark168	4750	255940.21 ns/op	976.79063 MiB/s
+Benchmark2k	7156	169896.03 ns/op	1471.4882 MiB/s
+Benchmark256k	7492	161617.33 ns/op	1546.8639 MiB/s
+Benchmark16m	21	56479190 ns/op	283.29018 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2295	531343.36 ns/op	470.50555 MB/s
-Benchmark168	4754	255669.12 ns/op	977.82634 MB/s
-Benchmark2k	7137	171488.16 ns/op	1457.8266 MB/s
-Benchmark256k	7461	162036.99 ns/op	1542.8576 MB/s
-Benchmark16m	20	56293000 ns/op	284.22717 MB/s
+Benchmark40	2295	531343.36 ns/op	470.50555 MiB/s
+Benchmark168	4754	255669.12 ns/op	977.82634 MiB/s
+Benchmark2k	7137	171488.16 ns/op	1457.8266 MiB/s
+Benchmark256k	7461	162036.99 ns/op	1542.8576 MiB/s
+Benchmark16m	20	56293000 ns/op	284.22717 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2275	531545.05 ns/op	470.32702 MB/s
-Benchmark168	4747	256048.45 ns/op	976.37771 MB/s
-Benchmark2k	7149	170664.15 ns/op	1464.8654 MB/s
-Benchmark256k	7477	161398.42 ns/op	1548.9619 MB/s
-Benchmark16m	20	56737750 ns/op	281.9992 MB/s
+Benchmark40	2275	531545.05 ns/op	470.32702 MiB/s
+Benchmark168	4747	256048.45 ns/op	976.37771 MiB/s
+Benchmark2k	7149	170664.15 ns/op	1464.8654 MiB/s
+Benchmark256k	7477	161398.42 ns/op	1548.9619 MiB/s
+Benchmark16m	20	56737750 ns/op	281.9992 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	1969	522606.91 ns/op	478.37102 MB/s
-Benchmark168	4761	252285.23 ns/op	990.94186 MB/s
-Benchmark2k	6108	167758.84 ns/op	1490.2344 MB/s
-Benchmark256k	7444	161612.04 ns/op	1546.9145 MB/s
-Benchmark16m	20	56546900 ns/op	282.95097 MB/s
+Benchmark40	1969	522606.91 ns/op	478.37102 MiB/s
+Benchmark168	4761	252285.23 ns/op	990.94186 MiB/s
+Benchmark2k	6108	167758.84 ns/op	1490.2344 MiB/s
+Benchmark256k	7444	161612.04 ns/op	1546.9145 MiB/s
+Benchmark16m	20	56546900 ns/op	282.95097 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2294	522768.53 ns/op	478.22313 MB/s
-Benchmark168	4315	252423.64 ns/op	990.39853 MB/s
-Benchmark2k	7137	168378.73 ns/op	1484.7481 MB/s
-Benchmark256k	6606	159271.57 ns/op	1569.6461 MB/s
-Benchmark16m	20	56676550 ns/op	282.3037 MB/s
+Benchmark40	2294	522768.53 ns/op	478.22313 MiB/s
+Benchmark168	4315	252423.64 ns/op	990.39853 MiB/s
+Benchmark2k	7137	168378.73 ns/op	1484.7481 MiB/s
+Benchmark256k	6606	159271.57 ns/op	1569.6461 MiB/s
+Benchmark16m	20	56676550 ns/op	282.3037 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2296	522652.44 ns/op	478.32935 MB/s
-Benchmark168	4760	251831.93 ns/op	992.72557 MB/s
-Benchmark2k	6082	168226.08 ns/op	1486.0954 MB/s
-Benchmark256k	7500	159641.6 ns/op	1566.0079 MB/s
-Benchmark16m	20	56744500 ns/op	281.96565 MB/s
+Benchmark40	2296	522652.44 ns/op	478.32935 MiB/s
+Benchmark168	4760	251831.93 ns/op	992.72557 MiB/s
+Benchmark2k	6082	168226.08 ns/op	1486.0954 MiB/s
+Benchmark256k	7500	159641.6 ns/op	1566.0079 MiB/s
+Benchmark16m	20	56744500 ns/op	281.96565 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2258	522825.07 ns/op	478.17141 MB/s
-Benchmark168	4732	251831.78 ns/op	992.72616 MB/s
-Benchmark2k	7155	167996.09 ns/op	1488.1299 MB/s
-Benchmark256k	7488	159333.47 ns/op	1569.0363 MB/s
-Benchmark16m	20	56847450 ns/op	281.45502 MB/s
+Benchmark40	2258	522825.07 ns/op	478.17141 MiB/s
+Benchmark168	4732	251831.78 ns/op	992.72616 MiB/s
+Benchmark2k	7155	167996.09 ns/op	1488.1299 MiB/s
+Benchmark256k	7488	159333.47 ns/op	1569.0363 MiB/s
+Benchmark16m	20	56847450 ns/op	281.45502 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2295	531412.64 ns/op	470.44421 MB/s
-Benchmark168	4744	256308.18 ns/op	975.3883 MB/s
-Benchmark2k	7130	171071.81 ns/op	1461.3746 MB/s
-Benchmark256k	7506	162154.14 ns/op	1541.7429 MB/s
-Benchmark16m	20	56396950 ns/op	283.70329 MB/s
+Benchmark40	2295	531412.64 ns/op	470.44421 MiB/s
+Benchmark168	4744	256308.18 ns/op	975.3883 MiB/s
+Benchmark2k	7130	171071.81 ns/op	1461.3746 MiB/s
+Benchmark256k	7506	162154.14 ns/op	1541.7429 MiB/s
+Benchmark16m	20	56396950 ns/op	283.70329 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2298	524365.54 ns/op	476.76665 MB/s
-Benchmark168	4759	253678.92 ns/op	985.49771 MB/s
-Benchmark2k	7004	167752.71 ns/op	1490.2889 MB/s
-Benchmark256k	6492	159843.35 ns/op	1564.0313 MB/s
-Benchmark16m	20	56824700 ns/op	281.5677 MB/s
+Benchmark40	2298	524365.54 ns/op	476.76665 MiB/s
+Benchmark168	4759	253678.92 ns/op	985.49771 MiB/s
+Benchmark2k	7004	167752.71 ns/op	1490.2889 MiB/s
+Benchmark256k	6492	159843.35 ns/op	1564.0313 MiB/s
+Benchmark16m	20	56824700 ns/op	281.5677 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2053	522641.99 ns/op	478.33891 MB/s
-Benchmark168	4100	253211.95 ns/op	987.31517 MB/s
-Benchmark2k	7149	168216.11 ns/op	1486.1834 MB/s
-Benchmark256k	6466	159972.94 ns/op	1562.7643 MB/s
-Benchmark16m	20	56781900 ns/op	281.77993 MB/s
+Benchmark40	2053	522641.99 ns/op	478.33891 MiB/s
+Benchmark168	4100	253211.95 ns/op	987.31517 MiB/s
+Benchmark2k	7149	168216.11 ns/op	1486.1834 MiB/s
+Benchmark256k	6466	159972.94 ns/op	1562.7643 MiB/s
+Benchmark16m	20	56781900 ns/op	281.77993 MiB/s
 os: FreeBSD
 arch: riscv
 
-Benchmark40	2288	522645.1 ns/op	478.33606 MB/s
-Benchmark168	4758	252853.51 ns/op	988.71477 MB/s
-Benchmark2k	7150	167888.95 ns/op	1489.0795 MB/s
-Benchmark256k	7506	159605.65 ns/op	1566.3606 MB/s
-Benchmark16m	20	56607900 ns/op	282.64606 MB/s
+Benchmark40	2288	522645.1 ns/op	478.33606 MiB/s
+Benchmark168	4758	252853.51 ns/op	988.71477 MiB/s
+Benchmark2k	7150	167888.95 ns/op	1489.0795 MiB/s
+Benchmark256k	7506	159605.65 ns/op	1566.3606 MiB/s
+Benchmark16m	20	56607900 ns/op	282.64606 MiB/s
